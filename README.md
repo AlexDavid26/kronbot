@@ -1,11 +1,13 @@
-# KronBot-2022-2023
+# KronBot
 
-### This repository contains the public FTC SDK for the Power Play (2022-2023) competition season.
+## Echipa de robotica de la CNI "Gr. Moisil" Brasov
 
-#### Idk what you expect from a team made out of 9th and 10th grade kids
+### This repository contains the FTC SDK for the Power Play (2022-2023) competition season.
+
+#### Cea mai tare echipa, avem hasisi pe 4 roti si turnurile gemene.
 
 ### We believe in
 
--   doamna Medan
+-   5 la fizica supremacy
 -   Lili beleaua clujului
 -   Manu spaima americanilor
