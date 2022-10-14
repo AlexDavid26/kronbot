@@ -2,8 +2,6 @@ package org.firstinspires.ftc.teamcode;
 
 import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 
-import org.firstinspires.ftc.teamcode.RobotTest;
-
 import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 import com.qualcomm.robotcore.hardware.DcMotorSimple;
 
@@ -11,7 +9,7 @@ import java.util.Objects;
 
 @TeleOp(name = "ManualControl")
 public class ManualControl extends OpMode {
-    RobotTest robot = new RobotTest();
+    Kronbot robot = new Kronbot();
     double EPS = 0.1;
     double ACC = 0.05;
     double currentPowerRunning;

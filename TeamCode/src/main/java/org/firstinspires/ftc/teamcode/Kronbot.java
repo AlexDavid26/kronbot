@@ -4,7 +4,7 @@ import com.qualcomm.robotcore.hardware.CRServo;
 import com.qualcomm.robotcore.hardware.Servo;
 import com.qualcomm.robotcore.hardware.DcMotor;
 
-public class RobotTest {
+public class Kronbot {
     DcMotor flMotor;
     DcMotor frMotor;
     DcMotor blMotor;
